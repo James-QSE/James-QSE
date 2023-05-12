@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @James-QSE
-- 👀 I’m interested in analysing log data from file processing
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on - nto sure yet
+- 👀 I’m interested in ensuring all user-fixable standardized errors in connectors have Knowledge Base articles
+- 🌱 I’m currently working in C++
+- 💞️ I’m looking to collaborate on - not sure yet
 - 📫 How to reach me james.dellar@bentley.com
 
 <!---
